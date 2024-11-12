@@ -3,4 +3,4 @@ Develop a comprehensive web application, "Rice Inspection," encompassing both Fr
 
  Code Repositories:
 - React [frontend] -  [https://github.com/uckyTH/EASYRICE_TEST_BACKEND](https://github.com/uckyTH/EASYRICE_TEST_FRONTEND.git)
-- Node [backend] - 
+- Node [backend] - https://github.com/uckyTH/EASYRICE_TEST_BACKEND.git
